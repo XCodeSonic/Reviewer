@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Password Section -->
+    <div class="password-container" id="passwordContainer">
+        <h1>Enter Password to Start</h1>
+        <input type="password" id="passwordInput" placeholder="Enter password">
+        <p id="passwordError" class="hidden">Incorrect Password!</p>
+        <button id="submitPassword">Submit</button>
+    </div>
+
+    <!-- Quiz Section (initially hidden) -->
+    <div class="quiz-container hidden" id="quizContainer">
+        <h1 id="question">According to W. Brian Arthur (2009) technology is define in 3 ways except.</h1>
+        <p id="answer" class="hidden"></p>
+        <div class="buttons">
+            <button id="showAnswer">Show Answer</button>
+            <button id="nextQuestion">Next Question</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

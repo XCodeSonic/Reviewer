@@ -1,0 +1,91 @@
+/* Base styles for all screen sizes */
+body {
+    background-color: #2f2f2f;
+    color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Password section */
+.password-container {
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+}
+
+.password-container input {
+    width: 100%;
+    padding: 15px;
+    font-size: 1.2em;
+    margin: 20px 0;
+    border-radius: 5px;
+    border: none;
+    box-sizing: border-box;
+}
+
+#passwordError {
+    color: red;
+    font-size: 1.2em;
+}
+
+/* Quiz section */
+.quiz-container {
+    text-align: center;
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 6vw;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 5vw;
+    margin: 20px 0;
+}
+
+button {
+    background-color: #555;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    margin: 10px;
+    font-size: 4vw;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    width: 80%;
+}
+
+button:hover {
+    background-color: #777;
+}
+
+/* Larger screen adjustments */
+@media (min-width: 768px) {
+    h1 {
+        font-size: 2.5em;
+    }
+
+    p {
+        font-size: 1.5em;
+    }
+
+    button {
+        font-size: 1.2em;
+        width: auto;
+    }
+}
