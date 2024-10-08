@@ -55,7 +55,7 @@ const questions = [
 	{ question: "It refers to man as being focuses to what of human existence", answer: "No Answer" },
 	{ question: "Development in S&T during the ancient period where ca 10,000 people in Palestine build houses from sun-dried bricks.", answer: "Africa and the Middle East" },
 	{ question: "Known as Dark Ages because of few written records from the said era and start of the first revolution", answer: "Medieval Period" },
-	{ question: "The continuous bringing forth of the concealed into unconcealment.", answer: "No Answer" },
+	{ question: "The continuous bringing forth of the concealed into unconcealment.", answer: "Enframing" },
 	{ question: "Being good entails nurturing character and fostering relationship according to.", answer: "No Answer" },
 	{ question: "Greater advancement in technology and adaptation od Eastern technologies in the West like invention of vertical windmills, spectacles, mechanical clocks, greatly improves water mills,building techniques like Gothic style, and three-field crop rotation occurred during the.", answer: "No Answer" },
 	{ question: "It consist of what can be retrieved from memory", answer: "Pre-conscious mind" },
