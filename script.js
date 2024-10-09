@@ -26,7 +26,7 @@ const questions = [
 	{ question: "The invention of telegraph by Samuel Morse (1791-1972) and Alexander Graham Bell (1847-1922) who patented the 1st telephone occurs during.", answer: "First Modern Information Revolution" },
 	{ question: "The civilization during Mesoamerican Period (1200 B.C. - 3rd Century A.D.) in which they built chinamps or floating gardens to plant crops.", answer: "Aztecs" },
 	{ question: "The aspects in achieving a strong nation are the following except.", answer: "Building an econimic entity" },
-	{ question: "A department in the Phil. government responsible for implementing industry-focused (Blurred)", answer: "No Answer" },
+	{ question: "A department in the Phil. government responsible for implementing industry-focused (Blurred)", answer: "Department of Trade and Industry" },
 	{ question: "The world's first national-scale assessment of damage to coral reefs resulting in international conservation initiatives like Global reefs and Risk Analysis etc. was conceptualized by.", answer: "Edgardo D. Gomez" },
 	{ question: "The development in S&T during the ancient period where ca 2500 Chinese doctors begin using acupuncture.", answer: "Asia and Oceania" },
 	{ question: "The principles of morality that drives man to become socially responsible and behaves in acceptable manner", answer: "Super-Ego" },
