@@ -34,7 +34,7 @@ const questions = [
 	{ question: "It is the human race, which includes everybody on earth.", answer: "Humanity" },
 	{ question: "It is systematic study which is concerned with evidences and theories", answer: "Science" },
 	{ question: "The correctly applying a norm, premise, rule, standard or law", answer: "Right Action" },
-	{ question: "The application of scientific knowledge (applied science) to achieve a particular goal", answer: "No Answer" },
+	{ question: "The application of scientific knowledge (applied science) to achieve a particular goal", answer: "Technology" },
 	{ question: "It consist of people who live in a specific territory, interact with one another, and share many elements of common culture.", answer: "society" },
 	{ question: "A body or reservoir of skills and knowledge by which we control and modify its systems, processes and developments in the world.", answer: "Technology" },
 	{ question: "It refers to all activity concerened with developing new scientific knowledge, new products and processes and it is a measure of the effort being put into S&T.", answer: "Research and Development" },
