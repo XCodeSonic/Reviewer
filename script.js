@@ -31,7 +31,7 @@ const questions = [
 	{ question: "The development in S&T during the ancient period where ca 2500 Chinese doctors begin using acupuncture.", answer: "Asia and Oceania" },
 	{ question: "The principles of morality that drives man to become socially responsible and behaves in acceptable manner", answer: "Super-Ego" },
 	{ question: "The following are the characteristics of science except.", answer: "Relies in hearsays" },
-	{ question: "It is the human race, which includes everybody on earth.", answer: "No Answer" },
+	{ question: "It is the human race, which includes everybody on earth.", answer: "Humanity" },
 	{ question: "It is systematic study which is concerned with evidences and theories", answer: "Science" },
 	{ question: "The correctly applying a norm, premise, rule, standard or law", answer: "Right Action" },
 	{ question: "The application of scientific knowledge (applied science) to achieve a particular goal", answer: "No Answer" },
