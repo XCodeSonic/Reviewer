@@ -47,7 +47,7 @@ const questions = [
 	{ question: "Connects to the period of Middle ages to modern history is.", answer: "Renaissance Period" },
 	{ question: "The Sustainable Alternative Lighting, an environmental-friendly lamp was discovered by. ", answer: "Aisa Mijeno" },
 	{ question: "Radioactivity was discovered in 1896 by.", answer: "Henri Becquerel" },
-	{ question: "It is the transfer of doing work by human hands and feet to the use of machines.", answer: "No answer" },
+	{ question: "It is the transfer of doing work by human hands and feet to the use of machines.", answer: "Industrial Revolution" },
 	{ question: "The development in S&T during the ancient period where ca 900 Farmers in Mesopotamia use an irriation system to water crops.", answer: "Africa and the Middle East" },
 	{ question: "Comrises Eros, the life or survival instinct of man and Thanatos the death or destructive instinct of man.", answer: "ID" },
 	{ question: "A department in the Phil. government responsible for providing central direction, leadership and coordination of all scientific and technological activities, formulating policies, programs, projects to support the national development.", answer: "DOST" },
