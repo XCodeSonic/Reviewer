@@ -50,7 +50,7 @@ const questions = [
 	{ question: "It is the transfer of doing work by human hands and feet to the use of machines.", answer: "No answer" },
 	{ question: "The development in S&T during the ancient period where ca 900 Farmers in Mesopotamia use an irriation system to water crops.", answer: "Africa and the Middle East" },
 	{ question: "Comrises Eros, the life or survival instinct of man and Thanatos the death or destructive instinct of man.", answer: "ID" },
-	{ question: "A department in the Phil. government responsible for providing central direction, leadership and coordination of all scientific and technological activities, formulating policies, programs, projects to support the national development.", answer: "No Answer" },
+	{ question: "A department in the Phil. government responsible for providing central direction, leadership and coordination of all scientific and technological activities, formulating policies, programs, projects to support the national development.", answer: "DOST" },
 	{ question: "Technology is progressive and beneficial in many ways, also doubtful in many ways and a way of life(Technological Pessimism) according to.", answer: "No Answer" },
 	{ question: "It refers to man as being focuses to what of human existence", answer: "No Answer" },
 	{ question: "Development in S&T during the ancient period where ca 10,000 people in Palestine build houses from sun-dried bricks.", answer: "Africa and the Middle East" },
