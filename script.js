@@ -40,7 +40,7 @@ const questions = [
 	{ question: "It refers to all activity concerened with developing new scientific knowledge, new products and processes and it is a measure of the effort being put into S&T.", answer: "Research and Development" },
 	{ question: "It is the study of the ways in which technical and social phenomena interact and influence each other.", answer: "Science, Technology and Society" },
 	{ question: "Involves having the character and personal qualities that were justified by reason as having moral worth according to aristotle.", answer: "Being Good" },
-	{ question: "Serves as the blueprint of programs and administrations plan for progress", answer: "No Answer" },
+	{ question: "Serves as the blueprint of programs and administrations plan for progress", answer: "Philippine Development Plan" },
 	{ question: "Ways to define technology as means to an end (Causality) are the following except.", answer: "Moral Cause" },
 	{ question: "Pioneered some medical practices like false teeth installation, filling dental cavities, broken bone setting, bone traction, vaccination, brain surgery, skin grafting and autopsy", answer: "African Revolution" },
 	{ question: "Believes technology can alleviate all difficulties of life and can provide solutions for problems that may come", answer: "Technological Optimism" },
