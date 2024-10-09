@@ -56,7 +56,7 @@ const questions = [
 	{ question: "Development in S&T during the ancient period where ca 10,000 people in Palestine build houses from sun-dried bricks.", answer: "Africa and the Middle East" },
 	{ question: "Known as Dark Ages because of few written records from the said era and start of the first revolution", answer: "Medieval Period" },
 	{ question: "The continuous bringing forth of the concealed into unconcealment.", answer: "Enframing" },
-	{ question: "Being good entails nurturing character and fostering relationship according to.", answer: "No Answer" },
+	{ question: "Being good entails nurturing character and fostering relationship according to.", answer: "Aristotle" },
 	{ question: "Greater advancement in technology and adaptation od Eastern technologies in the West like invention of vertical windmills, spectacles, mechanical clocks, greatly improves water mills,building techniques like Gothic style, and three-field crop rotation occurred during the.", answer: "No Answer" },
 	{ question: "It consist of what can be retrieved from memory", answer: "Pre-conscious mind" },
 	{ question: "Made his research on the ecology and diversity of Phil amphibians and reptiles and conservation of marine-protected area.", answer: "Angel C. Alcala Ph.D." },
