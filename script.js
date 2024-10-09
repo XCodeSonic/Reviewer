@@ -9,7 +9,7 @@ const submitPasswordButton = document.getElementById("submitPassword");
 
 const questions = [
     { question: "According to W. Brian Arthur (2009) technology is define in 3 ways except.", answer: "Good Practice" },
-    { question: "This refers to an individual's own principles regarding right and wrong.", answer: "No Answer" },
+    { question: "This refers to an individual's own principles regarding right and wrong.", answer: "Moral" },
     { question: "They are the material artifacts in anthropological term or hardware in engineering term, produced by a person or group or persons.", answer: "Technics" },
     { question: "The capacity to enjoy the freedom to do things as long as you do not trample the rights of others.", answer: "Good Life" },
     { question: "A British in 1527 who made the first attempt to outline the ideal relationship between STS in which he was able to publish in his book The New Atlantis.", answer: "Francis Bacon" },
