@@ -8,7 +8,7 @@ const passwordError = document.getElementById("passwordError");
 const submitPasswordButton = document.getElementById("submitPassword");
 
 const questions = [
-    { question: "According to W. Brian Arthur (2009) technology is define in 3 ways except.", answer: "No Answer" },
+    { question: "According to W. Brian Arthur (2009) technology is define in 3 ways except.", answer: "Good Practice" },
     { question: "This refers to an individual's own principles regarding right and wrong.", answer: "No Answer" },
     { question: "They are the material artifacts in anthropological term or hardware in engineering term, produced by a person or group or persons.", answer: "Technics" },
     { question: "The capacity to enjoy the freedom to do things as long as you do not trample the rights of others.", answer: "Good Life" },
