@@ -69,10 +69,10 @@ const questions = [
 	{ question: "He studied on the culture of seaweed species that benefited the livelihood of coastal populations.", answer: "Gavino C. Trono Ph.D." },
 	{ question: "In 1968 technology recognized as the top reason in economic develoment and extra funds given to support projects in applied science and science education during.", answer: "Marcos Era" },
 	{ question: "The idea of good life is pleasure according to.", answer: "Hedonism" },
-	{ question: "The department in the Phil government that is responsible to formulating development plans and regarded as the country's premier socioeconiomic planning body", answer: "No Answer" },
-	{ question: "Introduced formal education and established colleges universities and made contributions in field of engineering like constructing roads, bridges, churches, government establishments.", answer: "No Answer" },
+	{ question: "The department in the Phil government that is responsible to formulating development plans and regarded as the country's premier socioeconiomic planning body", answer: "NEDA" },
+	{ question: "Introduced formal education and established colleges universities and made contributions in field of engineering like constructing roads, bridges, churches, government establishments.", answer: "Spanish Colonial Period" },
 	{ question: "World Wide Web was created in.", answer: "1989" },
-	{ question: "Science was inclined to agriculture, food processesing Forestry, medicine, and pharmacy.", answer: "No answer" },
+	{ question: "Science was inclined to agriculture, food processesing Forestry, medicine, and pharmacy.", answer: "Pre-spanish period" },
 	{ question: "The section in 1987 Constitution, Article XIV Sec. provided protection of rights of scientist, Inventors, artist, and other gifted citizens to their intellectual property.", answer: "13" },
 	{ question: "Good life is peace of mind though minimizing desires and passions according to.", answer: "Stoicism" },
 	{ question: "A period in Europe in the 18th century when many writers and thinkers began to question established beliefs", answer: "Age of Enlightenment" }
